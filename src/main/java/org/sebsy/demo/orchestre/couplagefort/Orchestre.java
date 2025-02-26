@@ -25,6 +25,7 @@ public class Orchestre {
             if (object instanceof Batteur) {
                 ((Batteur) object).jouerMorceau();
             }
+
             }
         }
     }
