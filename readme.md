@@ -1,3 +1,8 @@
+Louis Boucard
+
+Fork depuis le repo de ssy-epsi
+
+
 # Couplage fort
 Pour illustrer la notion de couplage fort, prenons l’exemple d’un orchestre.
 
@@ -6,4 +11,8 @@ Pour illustrer la notion de couplage fort, prenons l’exemple d’un orchestre.
 - L'objectif pour vous est d'ajouter un 3e type de musicien : les batteurs.
 
 ![img.png](img.png)
+
+
+
+
 
